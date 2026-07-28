@@ -66,10 +66,10 @@ https://api.open-meteo.com/v1/forecast?latitude=28.6139&longitude=77.2090&hourly
 ## Results
 
 - **Model:** Support Vector Machine (RBF Kernel)
-- **Accuracy:** **98.5%**
-- **Precision:** **0.98**
-- **Recall:** **0.99**
-- **F1-Score:** **0.98**
+- **Accuracy:** **100%**
+- **Precision:** **1.00**
+- **Recall:** **1.00**
+- **F1-Score:** **1.00**
 
 
 Confusion Matrix:
